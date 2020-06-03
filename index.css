@@ -1,0 +1,94 @@
+html, body, div, span, applet, object, iframe,  
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,  
+a, abbr, acronym, address, big, cite, code,  
+del, dfn, em, img, ins, kbd, q, s, samp,  
+small, strike, strong, sub, sup, tt, var,  
+b, u, i, center,  
+dl, dt, dd, ol, ul, li,  
+fieldset, form, label, legend,  
+table, caption, tbody, tfoot, thead, tr, th, td,  
+article, aside, canvas, details, embed,  
+figure, figcaption, footer, header, hgroup,  
+menu, nav, output, ruby, section, summary,  
+time, mark, audio, video {  
+margin: 0;  
+padding: 0;  
+border: 0;  
+font-size: 100%;  
+font-style: inherit;  
+vertical-align: baseline;  
+}
+
+* {
+    font-size: 62.5%;
+    font-family: "Roboto Mono";
+    box-sizing: border-box;
+    }
+
+nav button{
+text-align: center;
+padding: 1% 1.5%;
+margin: 5%;
+font-size: 1.25rem;
+color:white;
+height: 60px;
+border-radius: 25%;
+display: inline-block;
+margin-left: 10%;
+}
+
+ .plan {
+background-color: #FF764E;
+
+}
+
+.learn {
+    background-color:#5ED3EB;
+}
+
+.involved {
+    background-color: #FFCD69;
+}
+
+.headerimg {
+   align-items: left;
+    height: 100px;
+    border-radius: 100%;
+    height: 50vh;
+    display: inline-block;
+    float: left; 
+    margin-left: 50px;
+}
+
+
+}
+.top {
+display: inline-block;
+width: 100%;
+
+}
+
+h1 {
+    font: 4rem "Chelsea Market";
+    margin: 50px ;
+text-align: center;
+
+}
+
+.subtitle{
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 10rem;
+    }
+
+.center {
+    margin: 5%    ;
+    text-align: center;
+    padding: 1rem;
+    background-color: #DDB9A3;
+}
+
+.fire {
+height: 100px;
+margin-left: 50%;
+}
